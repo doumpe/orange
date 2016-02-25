@@ -22,10 +22,10 @@ html {
 		position: relative;
 		top: 50%;
 		left: 50%;
-		min-width: 100%;
+		min-width:  100bw;
 		min-height: 100%;
-		width: auto;
-		height: auto;
+		width: 100vw;
+		height: 100vh;
 		z-index: -100;
 		-webkit-transform: translateX(-50%) translateY(-50%);
 		transform: translateX(-50%) translateY(-50%);
@@ -44,26 +44,6 @@ html {
 	color: #fff;
 	text-align: center;
 }
-#cover::before {
-		content: "";
-
-		position: absolute;
-		top: 0;
-		left: 0;
-
-		height: 100%;
-		width: 100%;
-		z-index: 20;
-
-		background: url("../media/cover.jpg") 50% 50% no-repeat;
-		background-size: cover;
-}
-/* @media (min-width: 30rem) {
-	#cover::before {
-		background: url("../media/pattern.png");
-		opacity: 0.7;
-	}
-} */
 
 h1 {
 	position: absolute;
