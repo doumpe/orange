@@ -1,1 +1,0 @@
-Konstantinos Doumpenidis
