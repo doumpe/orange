@@ -4,42 +4,44 @@ published: true
 ---
 
 
-## The Debtron method
-*Debtron* is a state of the art integrated mechanism in compliance with the *OCDE Toolkit*, particularly effective in the rationalization and deflation of national debt. It is an essential apparatus aimed at all accredited, aspiring and industrious politicians and legislators.
+## The annoying orange
 
-The elegant configuration of *Debtron* is designed to be placed on a prominent —preferably expensive— bureau. A typical monitor (sold separately) is required to display seven (7) distinct, fluctuating values, including the most important one, that is the absolute debt in Euros. The latter however, cannot be manipulated directly, but is instead calculated in real-time according to the operator’s input.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem aut omnis perferendis sequi magnam? Quibusdam, quo, neque quam velit impedit excepturi, eaque magnam sapiente a veniam animi dolor, officiis itaque!
 
-The variables available to the operator are as follows:
+Saepe enim eum porro dolores at esse, ea quam animi. Impedit earum illum mollitia ullam eveniet beatae expedita temporibus est neque, enim tempore commodi magni itaque deleniti inventore perspiciatis eius.
 
-* Minimum wage.
-* Total national surface.
-* Count of immigrants hosted.
-* Individual pensioners alive.
-* Sum of Members of Parliament.
-* Minimum number of citizens allowed to be unemployed.
+Provident natus, quos magni. Odit sequi nesciunt minima modi, quo quaerat quis molestiae reprehenderit ducimus autem quam consectetur qui delectus laudantium ipsa dignissimos iusto distinctio nam commodi eaque! Ipsa, accusamus.
 
-The afforementioned variables range between the actual minimum and maximum values in the European Union. They are subsequently linked to the national debt with our patented algorithm, thus the operator is able to obtain live feedback from their actions and accordingly inflate or deflate the debt.
+Repellat incidunt laborum provident eius, sunt quisquam tempore amet animi veritatis culpa. Libero cum maxime beatae nisi possimus placeat molestias accusantium cumque ipsam dolore repellat reiciendis voluptates quae, error numquam!
 
-## User testimonials
-<script src="https://www.youtube.com/iframe_api"></script>
-<div class="responsive-video"><div id="player"></div></div>
+Quas excepturi possimus soluta fugit esse adipisci laudantium praesentium doloremque iusto deserunt, eligendi illum molestias eos natus at dignissimos aperiam accusamus ullam enim aspernatur. Necessitatibus id repellendus sed minima laudantium?
 
-> The people of my nation entrusted me for the first time, therefore I had to thoroughly prepare for what was to come. One day, I crave to be able to stand shoulder to shoulder to my idols in the G8 forum.
->
-> <small>Yes Angela dear, I do too… I need to hang up, we’re shooting now.</small>
->
-> It wasn’t until I had used *Debtron* for the first time, that I realized I held in my hands a machine of fine mathematical beauty.
-> Working with absolute numbers I needn’t worry about any ethical consequences. I could at last lower wages, fence off the national borders, and see the debt plunge by liquidating the lengthy Greek shorelines.
->
-> Hear me fellow politician: *Debtron* is what you’ve always needed.
-> I’ve truly felt my life changing, and can already see my career in politics taking off.
-> Hear me; go get *Debtron*, get it *now* and take the life of others in your hands.
->
-> — a Greek politician we honestly didn’t bribe
+Nesciunt saepe, laudantium nam adipisci sit voluptates, hic accusantium provident alias, exercitationem consectetur esse tenetur minima minus quis a eveniet incidunt doloremque, aliquam! Sit harum, suscipit ab autem nemo dolor?
 
-> Let them solve the problem.
->
-> — [*Donald Trump* on the Greek Crisis](http://www.breitbart.com/video/2015/07/05/trump-greek-debt-crisis-a-problem-for-germany-and-rest-of-europe-not-us/)
+Dolor deleniti, consequatur nobis mollitia doloremque distinctio nam rem reiciendis animi sit dolorum nulla qui at, tempora iusto obcaecati voluptates sequi, perferendis voluptas. Molestias quis provident, sapiente tenetur est tempore?
 
-## Order yours today
-We’re feverishly working towards a crowdfunding campaign, so make sure to [**Like us on Facebook**](https://www.facebook.com/debtron) for our latest news. Nevertheless, in case of imminent elections, we invite you to contact our sales department at [info@debtron.xyz](mailto:info@debtron.xyz?subject=SHUT%20UP%20AND%20TAKE%20MY%20MONEY) for a private product trial.—
+Inventore sed asperiores ipsam, rerum? Laborum alias eaque autem corporis deserunt illum tenetur, dolorum animi quisquam, nesciunt, non eligendi voluptatibus assumenda inventore sit laudantium? Pariatur veniam unde, sequi tempora suscipit?
+
+Ipsum unde dolore dolorem nihil, iure debitis odit repellat odio iusto eius esse veniam quae fuga vero deserunt voluptate molestiae placeat, aut id rerum repudiandae sit! Quae non, velit sit.
+
+Eveniet, consequatur. Iure nisi soluta maiores, fugit. Officia dolore eveniet maiores recusandae sed. Ducimus nemo, molestias vitae veritatis eveniet, officia quae deleniti eaque voluptates earum error neque architecto laudantium obcaecati!
+
+Maxime tenetur iusto ab, culpa rem neque iure exercitationem autem fuga illo sapiente eligendi ipsum officia sit nesciunt, eveniet. Dolorem repellat, repudiandae. Cupiditate soluta autem dolore perspiciatis, repellendus et voluptatibus.
+
+Ullam voluptatibus minima laborum, ipsa officia provident tempore deserunt earum beatae itaque a dignissimos, saepe odio sed perferendis officiis doloribus sit deleniti, explicabo id. Magni deserunt corporis ratione sequi nam.
+
+Ducimus aspernatur suscipit reiciendis delectus alias! Culpa quo iusto perferendis temporibus nesciunt cumque numquam tenetur laboriosam ex quos, sint, odio a velit laborum sit! Consectetur quia perferendis facilis unde, consequuntur.
+
+Sunt repellendus, architecto enim quisquam non libero ea, officia labore neque excepturi ad saepe similique, doloremque voluptatibus, voluptates laudantium sit! Corrupti dolorem minima rem ullam incidunt, laborum, voluptates inventore ab?
+
+Minus nobis hic odio commodi, nostrum placeat reprehenderit ab ducimus animi? Esse voluptatem similique maxime quasi eos sunt excepturi labore, a, expedita veritatis ullam veniam ducimus temporibus adipisci officiis laudantium.
+
+Cum earum unde vero in autem eum, odit nam. Iure reprehenderit voluptatem earum sunt dolor ipsam facere dolorem aperiam, eos, temporibus quidem ea nesciunt non, obcaecati magni. Veniam, velit necessitatibus!
+
+Est optio ipsam aliquid assumenda. Veniam molestiae unde quasi illum facilis quaerat qui, deleniti omnis! Architecto, porro quidem ipsa, at tempore tempora corporis corrupti necessitatibus vero dolorem ratione iure dignissimos?
+
+Mollitia eum officiis ratione, recusandae iste, eius molestiae delectus ullam rerum pariatur soluta id laudantium maxime iure unde. Dolore voluptatibus voluptatum cupiditate alias praesentium? Commodi delectus rerum voluptates corporis dolores!
+
+Eveniet quidem architecto impedit sunt consequuntur? Molestias reprehenderit ut, iusto, at blanditiis totam distinctio optio autem in inventore possimus consectetur consequuntur atque quos! Nulla tempora, vel! Maiores ipsa autem, blanditiis.
+
+Repellendus, quaerat, accusamus. Exercitationem, minima dicta et ullam illum ipsam voluptatem fuga provident enim beatae maiores nesciunt porro dolorem tenetur ab modi quisquam dolorum obcaecati unde rem, cumque distinctio? Vel!
