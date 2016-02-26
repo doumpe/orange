@@ -84,7 +84,7 @@ footer {
 
 @media (min-width: 30rem) {
 	html {
-		font-size: 20px;
+		font-size: 22px;
 	}
 }
 
@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: Montserrat, sans-serif;
 	margin: 0 0 0.5rem -0.1rem /* align left edge */;
 	line-height: 1;
-	color: #111;
+	color: #fff;
 	text-rendering: optimizeLegibility;
 }
 
@@ -265,7 +265,7 @@ pre > code {
 main {
 	position: relative;
 
-	max-width: 30rem;
+	max-width: 36rem;
 	margin: 0 auto;
 	padding: 0 1rem;
 }
