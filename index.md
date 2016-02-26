@@ -21,4 +21,6 @@ The orange jumpsuits of detainees is supposed to be the main reason why ISIS put
 
 Simultaneously,  orange because of its visibility in dim light or against the water, is consequently known as safety orange, the colour of choice for life-jackets apparently the most necessary items of the equipment of refugees hoping to reach Europe by sea. During the refugees crisis the Turkish police have uncovered a factory producing fake life-jackets, shining a light on a booming cottage industry that has emerged as a by product of the refugee crisis. Police allegedly seized 1,263 life-jackets filled with non-buoyant materials from an illegal workshop in Izmir that employed two Syrian children. It seems like in a way Syrian people produce their life-jackets by themselves. In the same period  bodies of  people washed up on turkish and greek beaches, having drowned in their attempt to reach freedom. 
 
+&nbsp;
+
 Safety orange seem not to be safe any more.
