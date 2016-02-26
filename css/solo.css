@@ -270,3 +270,8 @@ main {
 	margin: 0 auto;
 	padding: 0 1rem;
 }
+
+p {
+	margin: 0;
+	text-indent: 1.5rem;	
+}
