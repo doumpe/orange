@@ -23,4 +23,4 @@ Simultaneously,  orange because of its visibility in dim light or against the wa
 
 &nbsp;
 
-Safety orange seem not to be safe any more.
+Safety orange does not seem to be safe any more.
